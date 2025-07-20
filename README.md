@@ -1,4 +1,4 @@
-## # Análisis de Evasión de Clientes en TelecomX
+##  Análisis de Evasión de Clientes en TelecomX
 ---
 
 ## 📌 Índice
