@@ -4,11 +4,12 @@
 ## 📌 Índice
 1. [📖 Descripción del Proyecto](#-descripción-del-proyecto)
 2. [📂 Estructura del Repositorio](#-estructura-del-repositorio)
-3. [🔗 📊 Metodología de Análisis](#-metodología-de-análisis)
-4. [📈 Principales Hallazgos(#-metodología-de-análisis).
-6. [🤝 Contribuyentes](#-contribuyentes)
-7. [💡 Desarrolladores](#-desarrolladores)
-8. [📜 Licencia](#-licencia)
+3. [📊 Metodología de Análisis](#-metodología-de-análisis)
+4. [📈 Principales Hallazgos](#-principales-hallazgos).
+6. [💡 Recomendaciones](#-recomendaciones)
+7. [👉 Cómo usar](#-cómo-usar)
+8. [⚠️ Notas](#-notas)
+9. [🤝 Desarrolladores](#-desarrolladores)
 
 ---
 
@@ -48,29 +49,41 @@
 ---
 
 ## 📈 Principales Hallazgos
-🌍 **Observa el Análisis Realizado:**
 
-Para ejecutarlo localmente:
-1. Clona este repositorio:  
-   ```bash
-   git clone https://github.com/s3bas-creartor/desaf-o-Alura-Store
-   ```
-2. Abre `Colab` en tu navegador.
+1.   La tasa de evasión es elevada en clientes con contratos “mes a mes”, pagos electrónicos y baja antigüedad.
+2.   Los clientes que contratan más servicios y permanecen más tiempo presentan significativamente menor churn.
+3.   Las estrategias de retención deben centrarse en nuevos clientes y en quienes usan menos servicios.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
-🚀 **Tecnologías que hacen esto posible:**
-- Python, se emplearon las siguientes librerías clave:
-    - Pandas: Fundamental para la manipulación y análisis de datos.
-    - Matplotlib: Utilizada para la creación de gráficos estáticos.
-    - Seaborn: Construida sobre Matplotlib, se usó para generar visualizaciones estadpisticas más atractivas.
+## 💡 Recomendaciones
+
+ 1.  Incentivar contratos de larga duración y métodos de pago automáticos.
+ 2.  Realizar campañas de cross-selling para aumentar la cantidad de servicios por cliente.
+ 3.  Desarrollar programas de bienvenida/fidelización orientados al inicio de la relación comercial.
 
 ---
 
-## 🤝 Contribuyentes
-🙌 **¿Quieres ayudar a mejorar el proceso de análisis realizado?**
+## 👉 Cómo usar
 
-¡Las contribuciones son bienvenidas! Haz un **fork** del repositorio, propón mejoras y envía un **pull request** con tus ideas. 🚀
+1.   Clona este repositorio.
+2.   Descarga o vincula el archivo de datos (TelecomX_Data.json).
+3.   Abre y ejecuta el notebook (notebook.ipynb) en Google Colab o Jupyter.
+4.   Sigue cada celda para reproducir el análisis y los gráficos.
+
+---
+
+## ⚠️ Notas
+
+1.   El presente análisis es exploratorio y didáctico; para producción, se recomienda validar modelos predictivos en conjuntos de datos más amplios y variados.
+2.   No incluye implementación de modelos de machine learning, pero el dataset y la limpieza están listos para ser usados en tareas avanzadas de predicción.
+
+---
+
+## 🤝 Desarrolladores
+
+👨‍💻 Proyecto desarrollado por:
+- [Sebastian Piamonte](https://github.com/s3bas-creartor) 🚀
+Si tienes ideas o mejoras, ¡contáctame!
 
 ---
